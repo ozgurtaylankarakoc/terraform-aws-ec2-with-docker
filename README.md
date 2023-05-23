@@ -16,4 +16,6 @@ module "docker_instance" {
     source = "<ozgurtaylankarakoc>/docker-instance/aws"
     key_name = "CHANGE_ME!"
 }
+
+M6A CREW VERSION 0.0.2
 ```
